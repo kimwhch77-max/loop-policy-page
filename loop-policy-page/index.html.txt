@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>제 31대 미디어커뮤니케이션학과 학생회 정책</title>
+    <style>
+        body {
+            font-family: 'Malgun Gothic', 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f8ff; /* 연한 하늘색 배경 */
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 40px;
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+            text-align: center;
+        }
+        h1 {
+            color: #007bff; /* LOOP의 상징색 */
+            font-size: 2.2em;
+            margin-bottom: 10px;
+        }
+        h2.subtitle {
+            color: #555;
+            font-size: 1.1em;
+            margin-bottom: 30px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px;
+        }
+        .image-item {
+            margin-bottom: 50px;
+            padding: 20px;
+            background-color: #fafafa;
+            border: 1px solid #eee;
+            border-radius: 8px;
+        }
+        .image-item h3 {
+            color: #333;
+            font-size: 1.5em;
+            margin-top: 0;
+        }
+        .image-item img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 15px auto;
+            border: 5px solid #007bff;
+            border-radius: 5px;
+        }
+        .caption {
+            color: #555;
+            font-size: 1.05em;
+            line-height: 1.6;
+            text-align: left;
+            padding: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>제 31대 미디어커뮤니케이션학과 선거운동본부 'LOOP'</h1>
+        <h2 class="subtitle">정책 자료집 (2025. 11. 03)</h2>
+
+        <div class="image-item">
+            <h3>[IMAGE 1] 학과 복지 및 환경 개선 정책</h3>
+            <img src="images/policy_image_1.jpg" alt="방학 장비 대여, 과실 환경 개선, 제휴 협약 이미지" width="700">
+            <div class="caption">
+                <ul>
+                    <li>**방학 장비 대여 시스템:** 방학 중에도 장비 대여를 가능하게 하여 학우들의 자유로운 활동을 지원합니다[cite: 7, 8, 9].</li>
+                    <li>**과실 환경 개선:** 좁아진 과실의 불편함을 최소화하고, 비전타워 B208호 회의실을 추가 활용하여 공간 효율을 높이겠습니다[cite: 10, 11].</li>
+                    <li>**제휴 협약:** 학교 인근 편의시설과의 제휴를 추진하여 학우들의 생활 편의와 복지를 향상시키겠습니다[cite: 18, 19].</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="image-item">
+            <h3>[IMAGE 2] 학과 내 소통 및 교류 활성화 정책</h3>
+            <img src="images/policy_image_2.png" alt="전공 서적 순환 시스템 및 학과 채널 활성화 이미지" width="700">
+            <div class="caption">
+                <ul>
+                    <li>**학과 채널 활성화:** 공식 SNS 및 유튜브 채널 운영으로 다양한 정보와 즐길 거리를 제공하고, 긍정적인 학과 이미지를 외부에 전달하겠습니다[cite: 12, 13, 14].</li>
+                    <li>**학과 내 교류 향상:** 전공서적 순환 시스템을 마련하고, 주요 공모전 팀 구성 프로젝트를 운영하여 학과 교류를 활성화하겠습니다[cite: 15, 16, 17].</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="image-item">
+            <h3>[IMAGE 3] 수강신청 환경 개선 정책</h3>
+            <img src="images/policy_image_3.gif" alt="수강신청 인원 부족 문제 개선 및 강의 수요 조사 이미지" width="700">
+            <div class="caption">
+                <ul>
+                    <li>**수강신청 환경 개선:** 반복되는 인원 부족 문제를 개선하여 원하는 강의를 원활히 수강하도록 지원합니다[cite: 20, 21].</li>
+                    <li>강의 수요 조사를 통해 신청 과정에서 불편이나 피해가 발생하지 않도록 체계적으로 관리하겠습니다[cite: 22].</li>
+                </ul>
+            </div>
+        </div>
+
+        <footer>
+            <p style="font-size: 1em; margin-top: 50px; color: #007bff; font-weight: bold;">미디어커뮤니케이션학과 선거운동본부 'LOOP'</p>
+            <p style="font-size: 0.8em; color: #aaa;">Github Pages로 배포되었습니다.</p>
+        </footer>
+    </div>
+</body>
+</html>
